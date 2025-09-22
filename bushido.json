@@ -1,7 +1,10 @@
 {
   "name": "Bushido Coin",
-  "symbol": "BUSHI",
-  "description": "The ultimate meme coin on Solana devnet.",
-  "image": "https://raw.githubusercontent.com/Ujoel1865/BushidoCoin-/main/next%20gen.png"
+  "symbol": "BSI",
+  "description": "Bushido Coin – the way of the meme samurai on Solana.",
+  "image": "https://raw.githubusercontent.com/Ujoel1865/BushidoCoin-/main/BushidoC.png",
+  "attributes": [
+    { "trait_type": "Project", "value": "BushidoCoin" },
+    { "trait_type": "Category", "value": "Meme Token" }
+  ]
 }
-
